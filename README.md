@@ -1,2 +1,2 @@
 # Inquiro
-A Software Engineering Project
+A peer to peer learning and doubt solving application.
